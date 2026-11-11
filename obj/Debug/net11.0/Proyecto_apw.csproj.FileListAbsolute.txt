@@ -1,0 +1,17 @@
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\Proyecto_apw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\Proyecto_apw.AssemblyInfoInputs.cache
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\Proyecto_apw.AssemblyInfo.cs
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\Proyecto_apw.csproj.CoreCompileInputs.cache
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\Proyecto_apw.sourcelink.json
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\bin\Debug\net11.0\Proyecto_apw.exe
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\bin\Debug\net11.0\Proyecto_apw.deps.json
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\bin\Debug\net11.0\Proyecto_apw.runtimeconfig.json
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\bin\Debug\net11.0\Proyecto_apw.runtimeconfig.dev.json
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\bin\Debug\net11.0\Proyecto_apw.dll
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\bin\Debug\net11.0\Proyecto_apw.pdb
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\Proyecto_apw.dll
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\refint\Proyecto_apw.dll
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\Proyecto_apw.pdb
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\Proyecto_apw.genruntimeconfig.cache
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\ref\Proyecto_apw.dll
+C:\Users\ISABEL\Dropbox\PC\Downloads\MiNegocio_Iglesias_Renzo\obj\Debug\net11.0\Proyecto.C145CE11.Up2Date

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "Proyecto_apw/1.0.0": {
+        "runtime": {
+          "Proyecto_apw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto_apw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
